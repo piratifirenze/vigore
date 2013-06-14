@@ -1,4 +1,5 @@
 #Lista dei testi normativi in vigore
 #Partito Pirata - sezione area metropolitana di Firenze
 
+Lista-testi-normativi.txt [questo file]
 Infrastrutture-Informatiche.txt

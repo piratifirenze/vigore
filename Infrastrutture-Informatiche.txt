@@ -1,1 +1,35 @@
-test edit
+Al fine di garantire la massima trasparenza si produce la lista dei mezzi informatici attualmente in uso dai pirati fiorentini ed i relativi amministratori.
+
+Pirate Pad: http://piratepad.net/italy-firenze
+	Contiene gli ordini del giorno ed i verbali degli incontri dei pirati fiorentini
+	Tipo di accesso: pubblico
+
+Mailing list: https://lists.partito-pirata.it/cgi-bin/mailman/listinfo/firenze
+	Tipo di accesso: frontend pubblico, backend protetto
+	Nomina/revoca amministratore: 3gg in area locale
+	Nomina/revoca moderatori: 3gg in area locale
+	Amministratore unico: https://lqpp.de/int/it/initiative/show/4485.html
+	Moderatore: https://lqpp.de/int/it/initiative/show/4485.html
+	L'amministratore unico ed i moderatori decadono al decadere del titolo di pirata
+
+Account Twitter: https://twitter.com/PiratiFirenze
+	Tipo di accesso: frontend pubblico, backend protetto
+	Nomina/revoca amministratori: 3gg in area locale
+	Amministratori: https://lqpp.de/int/it/initiative/show/4485.html
+	Il ruolo di amministratore decade al decadere del titolo di pirata
+
+Blog Wordpress: http://piratifirenze.wordpress.com/
+	Tipo di accesso: frontend pubblico, backend protetto
+	Nomina/revoca amministratori: 3gg in area locale
+	Nomina editor/author/contributor: riservata ai pirati, richiesta semplice in lista Firenze
+	Revoca editor/author/contributor: 3gg in area locale
+	Amministratori: https://lqpp.de/int/it/initiative/show/4485.html
+	Editors: https://lqpp.de/int/it/initiative/show/4485.html
+	Il ruolo di amministratore decade al decadere del titolo di pirata
+
+Pagina Facebook: https://www.facebook.com/PartitoPirataFirenze
+	Tipo di accesso: frontend pubblico, backend protetto
+	Nomina/revoca amministratori: 3gg in area locale
+	Amministratori: https://lqpp.de/int/it/initiative/show/4485.html
+	Il ruolo di amministratore decade al decadere del titolo di pirata
+
