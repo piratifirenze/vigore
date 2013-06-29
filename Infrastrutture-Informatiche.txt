@@ -30,6 +30,6 @@ Blog Wordpress: http://piratifirenze.wordpress.com/
 Pagina Facebook: https://www.facebook.com/PartitoPirataFirenze
 	Tipo di accesso: frontend pubblico, backend protetto
 	Nomina/revoca amministratori: 3gg in area locale
-	Amministratori: https://lqpp.de/int/it/initiative/show/4485.html
+	Amministratori: https://lqpp.de/int/it/initiative/show/4485.html, https://lqpp.de/int/it/initiative/show/4720.html
 	Il ruolo di amministratore decade al decadere del titolo di pirata
 
