@@ -1,0 +1,10 @@
+##########################################################
+# Partito Pirata - sezione area metropolitana di Firenze #
+##########################################################
+
+TEMPLATE PER I TESTI IN VIGORE, QUI VA IL TITOLO IN MAIUSCOLO
+
+
+Da qui in poi va il testo della proposta ed i riferimenti alle varie issue...
+
+

@@ -1,6 +1,12 @@
-#Lista dei testi normativi in vigore
-#Partito Pirata - sezione area metropolitana di Firenze
+##########################################################
+# Partito Pirata - sezione area metropolitana di Firenze #
+##########################################################
+
+LISTA DEI TESTI NORMATIVI ATTUALMENTE IN VIGORE
+
 
 Lista-testi-normativi.txt [questo file]
 Infrastrutture-Informatiche.txt
 Regolamento-Manutenzione-Vigore.txt
+Richieste-Ingresso-Firenze.txt
+Istanze-Movimenti-Territoriali.txt
