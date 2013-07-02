@@ -1,0 +1,11 @@
+##########################################################
+# Partito Pirata - sezione area metropolitana di Firenze #
+##########################################################
+
+PIRATI NON RESIDENTI AUTORIZZATI AL VOTO NELLA SEZIONE FIORENTINA
+
+
+Questo file contiene la lista dei pirati non residenti abilitati al voto nella
+sezione fiorentina ovvero la lista delle votazioni che hanno fornito il privilegio.
+
+

@@ -1,0 +1,17 @@
+##########################################################
+# Partito Pirata - sezione area metropolitana di Firenze #
+##########################################################
+
+VIGORE, ABSTRACT / PROJECT DESCRIPTION
+
+
+Repository vigore is a pilot project, managed by the Florentian section of
+the Italian Pirate Party (PP-IT FI) which purpose is to test if the githib
+repository system can be used to keep an updated library of laws, codes and
+regulations. 
+
+Project offically started 2013-06-18 17:27:21 GMT+1 
+by https://lqpp.de/int/it/initiative/show/4811.html
+
+The project team can be contacted at firenze@lists.partito-pirata.it
+
